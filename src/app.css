@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+
+@layer components {
+	.nav-link {
+		@apply font-thin hover:font-medium;
+	}
+}
+
+@tailwind utilities;
