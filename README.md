@@ -33,7 +33,7 @@ node - v16.9
 #### Go to the project directory
 
 ```bash
-  cd myconcerts
+  cd concertina
 ```
 
 #### Install dependencies
